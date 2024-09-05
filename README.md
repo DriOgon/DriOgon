@@ -6,7 +6,8 @@
 一项关于计算机视觉的SRTP在研
 ## 感兴趣的技能方向✨
 
-SpringBoot+Vue/PHP实现Web开发,Python爬虫
+* SpringBoot+Vue/PHP实现Web开发
+* Python爬虫进阶
 ## 未来规划🤔 
 
 我自知学艺不精，项目实战经验不足，因此希望大三一年能够深入学习一门技术，积累项目经验，并争取保研。  
